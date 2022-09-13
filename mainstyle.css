@@ -137,3 +137,10 @@ li{
   
   /* Add a blue color to the author */
   .author {color: cornflowerblue;}
+  #footer{
+    background-color: rgb(72, 70, 70);
+    color: white;
+  }
+  .adat{
+    text-shadow: 2px 2px #ffbe5c;
+  }
